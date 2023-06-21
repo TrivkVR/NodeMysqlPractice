@@ -1,0 +1,19 @@
+{
+  "name": "ex1",
+  "version": "1.0.0",
+  "description": "Practice node-mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrivkVR/NodeMysqlPractice.git"
+  },
+  "author": "TK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrivkVR/NodeMysqlPractice/issues"
+  },
+  "homepage": "https://github.com/TrivkVR/NodeMysqlPractice#readme"
+}
